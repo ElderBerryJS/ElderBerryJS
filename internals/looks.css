@@ -1,0 +1,46 @@
+:root{
+
+    --aspect_ratio: 0;
+    --aspect_ratio2: 0;
+
+}
+
+body{
+
+    margin: 0px;
+    padding: 0px;
+    overflow: hidden;
+    background: url(../BG.jpg);
+    background-repeat: no-repeat;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+    -moz-background-size: cover;
+    /*cursor: url("Images/cursor.gif"), default;*/
+
+}
+
+/*Arcade font*/
+
+@font-face {
+    font-family: "EBGEJS_Arcade";
+    src: url(Fonts/f_arcade.ttf);
+}
+
+#cnvtype1{
+
+    position: absolute;
+    left: 50%;
+    top: 50%;
+    transform: translateX(-50%) translateY(-50%);
+
+}
+
+#cnvtype2{
+
+    position: absolute;
+    left: 0px;
+    top: 0px;
+
+}
