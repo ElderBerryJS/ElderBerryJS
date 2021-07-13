@@ -1,6 +1,6 @@
 # Welcome to ElderBerryJS
 
-Programmed, designed and documented by **JMIDEV**.
+Programmed, designed and documented by **[JMIDEV](https://github.com/JMIDEV)**.
 
 ![Logo_with_text](README_IMAGE.svg)
 
