@@ -4,7 +4,7 @@ import * as input_unit from './input.js';
 import * as usercode from '../yourcode.js';
 
 export var colwireframe = false;
-var E_Objects = [];
+export var E_Objects = [];
 
 //OBJECT CLASS
 
