@@ -1,7 +1,7 @@
 // IN THIS CODE, WE'LL CREATE A DISPLAY CANVAS, IT'S SCREEN RES (600x600 DEFAULT), AND IT'S INTERNAL RESOLUTION (80x80 DEFAULT) FOR THE GAME.
 // YOU WILL NEED TO CALL THE "conform("display_canvas");" for generating the display canvas.
 
-console.log("%c✨ WELCOME TO THE %cElder%cBerry%c JS %cEngine 0.1 ✨", "font-size: 50px", "color: #3f4a81; font-size: 50px", "color:#c64e69; font-size: 50px", "color: #ffc800; font-size: 50px;", "font-size: 50px;");
+console.log("%c✨ WELCOME TO THE %cElder%cBerry%c JS %cEngine 0.1.1 ✨", "font-size: 50px", "color: #3f4a81; font-size: 50px", "color:#c64e69; font-size: 50px", "color: #ffc800; font-size: 50px;", "font-size: 50px;");
 
 var root = document.documentElement;
 
